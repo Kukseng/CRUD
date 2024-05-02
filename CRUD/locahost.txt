@@ -1,0 +1,4 @@
+CRUD PHP
+1.Conneection link localhost(http://localhost/PHP/CRUD/C/index.php //Create  http://localhost/PHP/CRUD/C/create.php).
+2.read link(http://localhost/PHP/CRUD/R/read.php)
+4.Delete link( http://localhost/PHP/CRUD/D/delete.php).
